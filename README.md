@@ -1,12 +1,4 @@
 ### Olá, Eu sou o Pedro Bitencourt 👋
-
-
-
-- 🔭 Amo front-end e sou apaixonado por back-end.
-- 🌱 Estudando Analise e Desenvolvimento de sistemas e English 
-- 📫 E-Mail para contato é www.pedrobitencourt@hotmail.com
-- 😄 Pronouns:ele/dele
-- ⚡ Apaixonado por Games
 <div align="center">
   <a href="https://github.com/pedrobitencourtdev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrobitencourtdev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
