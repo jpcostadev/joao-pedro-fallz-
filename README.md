@@ -7,9 +7,6 @@
   </a>
 </div>
 <br>
-<div align="center">
-  <img src="https://github.com/pedrobitencourtdev/pedrobitencourtdev/blob/output/github-contribution-grid-snake.svg" alt="cobrinha" />
-</div>
 <br>
 <div align="center">
   <a href="https://www.youtube.com/channel/UCYD-CYxudm97bv4qUdF-tew" target="_blank">
