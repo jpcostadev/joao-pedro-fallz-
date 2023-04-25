@@ -33,10 +33,10 @@ Não deixe de conferir meus repositórios para ver alguns dos projetos que desen
   <a href="https://www.youtube.com/channel/UCYD-CYxudm97bv4qUdF-tew" target="_blank">
     <img src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
   </a>
-  <a href="https://www.instagram.com/zeusnftoficial/" target="_blank">
+  <a href="https://www.instagram.com/fallzoficial/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
-  <a href="https://www.twitch.tv/zeusnftoficial" target="_blank">
+  <a href="https://www.twitch.tv/fallzoficial" target="_blank">
     <img src="https://img.shields.io/badge/-Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch">
   </a>
   <a href="https://discord.gg/6XSHjeJG2E" target="_blank">
