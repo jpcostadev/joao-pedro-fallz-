@@ -1,5 +1,5 @@
 ### Olá, Eu sou o Pedro Bitencourt 👋
-
+![Snake animation](https://github.com/USERNAME/USERNAME/blob/output/github-contribution-grid-snake.svg)
 <div align="center">
   <a href="https://github.com/pedrobitencourtdev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrobitencourtdev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -11,7 +11,7 @@
   <img align="center" alt="Pedro-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/917822262097371183/973409350641127464/PEDRO_LOGO_SEM_FUNDO.png">
 </div>
-![Snake animation](https://github.com/USERNAME/USERNAME/blob/output/github-contribution-grid-snake.svg)
+
 
 <div> 
   <a href="https://www.youtube.com/channel/UCYD-CYxudm97bv4qUdF-tew" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
