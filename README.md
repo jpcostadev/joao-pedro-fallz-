@@ -2,7 +2,7 @@
 
 Sou um desenvolvedor de software apaixonado por criar soluções que impactam a vida das pessoas de forma positiva. Atualmente, estou me especializando em desenvolvimento web com foco em Python e o framework Django.
 
-Neste perfil do GitHub você encontrará uma variedade de projetos que demonstrem minhas habilidades e experiência em diferentes tecnologias. Além disso, também tenho experiência com desenvolvimento desktop utilizando o framework Qt e banco de dados SQLite.
+Neste perfil do GitHub você encontrará uma variedade de projetos que demonstrem minhas habilidades e experiência em diferentes tecnologias. Além disso, também tenho experiência com desenvolvimento desktop utilizando o framework Qt e banco de dados SQLite e MySql.
 
 Você também pode me encontrar em outras plataformas como YouTube, Instagram e Twitch, onde compartilho meu conhecimento e projetos com a comunidade. Se quiser entrar em contato, sinta-se à vontade para me enviar um e-mail ou me chamar no Discord.
 
