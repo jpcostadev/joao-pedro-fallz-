@@ -42,4 +42,4 @@ Você também pode me encontrar em outras plataformas como YouTube, Instagram e 
   <img align="center" alt="Pedro-SQLite" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg">
   <img align="center" alt="Pedro-QtDesigner" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg">
 </div>
-a
+
