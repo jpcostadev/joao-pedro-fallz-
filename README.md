@@ -1,5 +1,26 @@
 ### Olá, eu sou o Pedro Bitencourt! 👋
 
+Sou um desenvolvedor de software apaixonado por criar soluções que impactam a vida das pessoas de forma positiva. Atualmente, estou me especializando em desenvolvimento web com foco em Python e o framework Django.
+
+Neste perfil do GitHub você encontrará uma variedade de projetos que demonstrem minhas habilidades e experiência em diferentes tecnologias. Além disso, também tenho experiência com desenvolvimento desktop utilizando o framework Qt e banco de dados SQLite.
+
+Você também pode me encontrar em outras plataformas como YouTube, Instagram e Twitch, onde compartilho meu conhecimento e projetos com a comunidade. Se quiser entrar em contato, sinta-se à vontade para me enviar um e-mail ou me chamar no Discord.
+
+### 🚀 Linguagens e Ferramentas 🚀
+
+Ao longo da minha jornada, tenho utilizado diversas ferramentas e tecnologias, como:
+
+- HTML, CSS e JavaScript
+- Python, Django e Flask
+- Banco de dados SQLite e PostgreSQL
+- Frameworks como Bootstrap, Materialize e Tailwind CSS
+- Git e GitHub
+- Ferramentas de design como Adobe XD e Figma
+- E muitas outras ferramentas que me permitem criar projetos incríveis!
+
+Não deixe de conferir meus repositórios para ver alguns dos projetos que desenvolvi. Fique à vontade para clonar, contribuir ou apenas explorar o código. Espero que você encontre algo interessante por aqui!
+
+
 <div align="center">
   <a href="https://github.com/pedrobitencourtdev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrobitencourtdev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
