@@ -14,7 +14,7 @@
 
 <div align="center">
   <br>
-  <img src="https://github.com/pedrobitencourtdev/pedrobitencourtdev/blob/output/github-contribution-grid-snake.svg" alt="cobrinha" />
+  <img src="https://github.com/pedrobitencourtdev/pedrobitencourtdev/blob/main/.github/workflows/github-contribution-grid-snake.svg" alt="cobrinha" />
 </div>
 
 <div align="center"> 
