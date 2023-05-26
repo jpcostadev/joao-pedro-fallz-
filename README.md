@@ -1,4 +1,4 @@
-### Olá, eu sou o Pedro Bitencourt! 👋
+### Olá, eu sou o João Pedro também conhecido como Fallz! 👋
 
 Sou um desenvolvedor de software apaixonado por criar soluções que impactam a vida das pessoas de forma positiva. Atualmente, estou me especializando em desenvolvimento web com foco em Python e o framework Django.
 
